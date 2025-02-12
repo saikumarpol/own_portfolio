@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/saikumarpol/own_protifolio.git/static/css/main.e6c13ad2.css",
-    "main.js": "/saikumarpol/own_protifolio.git/static/js/main.c56b449a.js",
-    "static/js/488.97496e8e.chunk.js": "/saikumarpol/own_protifolio.git/static/js/488.97496e8e.chunk.js",
-    "static/media/Badal.png": "/saikumarpol/own_protifolio.git/static/media/Badal.3a4857b56e819f2bf22a.png",
-    "static/media/safezone.png": "/saikumarpol/own_protifolio.git/static/media/safezone.3fd2a0c505ce362f6516.png",
-    "static/media/wipro.jpg": "/saikumarpol/own_protifolio.git/static/media/wipro.001319f84d7f09294a9e.jpg",
-    "static/media/selsca.png": "/saikumarpol/own_protifolio.git/static/media/selsca.bb9dd0262f908a340730.png",
-    "static/media/RCTS.png": "/saikumarpol/own_protifolio.git/static/media/RCTS.6239f6ed54ce514d2d89.png",
-    "static/media/club.png": "/saikumarpol/own_protifolio.git/static/media/club.250c33c4c9eb04166b15.png",
-    "static/media/tabot.png": "/saikumarpol/own_protifolio.git/static/media/tabot.c71ab93058a62fd48a23.png",
-    "index.html": "/saikumarpol/own_protifolio.git/index.html",
-    "main.e6c13ad2.css.map": "/saikumarpol/own_protifolio.git/static/css/main.e6c13ad2.css.map",
-    "main.c56b449a.js.map": "/saikumarpol/own_protifolio.git/static/js/main.c56b449a.js.map",
-    "488.97496e8e.chunk.js.map": "/saikumarpol/own_protifolio.git/static/js/488.97496e8e.chunk.js.map"
+    "main.css": "/own_protifolio/static/css/main.e6c13ad2.css",
+    "main.js": "/own_protifolio/static/js/main.24332fe5.js",
+    "static/js/488.97496e8e.chunk.js": "/own_protifolio/static/js/488.97496e8e.chunk.js",
+    "static/media/Badal.png": "/own_protifolio/static/media/Badal.3a4857b56e819f2bf22a.png",
+    "static/media/safezone.png": "/own_protifolio/static/media/safezone.3fd2a0c505ce362f6516.png",
+    "static/media/wipro.jpg": "/own_protifolio/static/media/wipro.001319f84d7f09294a9e.jpg",
+    "static/media/selsca.png": "/own_protifolio/static/media/selsca.bb9dd0262f908a340730.png",
+    "static/media/RCTS.png": "/own_protifolio/static/media/RCTS.6239f6ed54ce514d2d89.png",
+    "static/media/club.png": "/own_protifolio/static/media/club.250c33c4c9eb04166b15.png",
+    "static/media/tabot.png": "/own_protifolio/static/media/tabot.c71ab93058a62fd48a23.png",
+    "index.html": "/own_protifolio/index.html",
+    "main.e6c13ad2.css.map": "/own_protifolio/static/css/main.e6c13ad2.css.map",
+    "main.24332fe5.js.map": "/own_protifolio/static/js/main.24332fe5.js.map",
+    "488.97496e8e.chunk.js.map": "/own_protifolio/static/js/488.97496e8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c56b449a.js"
+    "static/js/main.24332fe5.js"
   ]
 }
