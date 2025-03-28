@@ -25,7 +25,7 @@ const Header = ({ darkMode, toggleDarkMode }) => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" sx={{ flexGrow: 1, textDecoration: "none", color: "inherit" }} component={Link} to="/">
-            My Portfolio
+            My Portfolio 2
           </Typography>
           <Box sx={{ display: { xs: "none", md: "block" } }}>
             {menuItems.map((item) => (
